@@ -8,7 +8,8 @@ Bachelor of Network Engineering. Be a software engineer for 2 years. Interested 
 
 * 🌍  I'm based in Chengdu
 * ✉️  You can contact me at [vinsonws@qq.com](mailto:vinsonws@qq.com)
-* 🧠  I'm learning GIS, GO, etc.
+* 🖼️  My Blog Site https://blog.vinsonws.cn/
+* 🧠  I'm learning GIS, GO, etc.
 
 ### Skills
 
