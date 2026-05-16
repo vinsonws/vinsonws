@@ -10,6 +10,7 @@ Bachelor of Network Engineering. Be a software engineer for 2 years. Interested 
 * ✉️  You can contact me at [vinsonws@qq.com](mailto:vinsonws@qq.com)
 * 🖼️  My Blog Site https://blog.vinsonws.cn/
 * 🧠  I'm learning GIS, GO, etc.
+* ✍️  Need a clearer English bio? I can polish one short profile here: https://vinsonws.github.io/one-dollar-bio-polish/
 
 ### Skills
 
@@ -43,7 +44,12 @@ Bachelor of Network Engineering. Be a software engineer for 2 years. Interested 
 
 <a href="https://github.com/vinsonws" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinsonws&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<!-- ### Support Me
+### Tiny Service
+
+I can polish one short personal bio into natural English for GitHub, LinkedIn, X, or a personal website.
+
+Order here: https://vinsonws.github.io/one-dollar-bio-polish/
+
+### Support Me
 
 <a href="https://www.buymeacoffee.com/vinsonws"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
- -->
